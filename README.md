@@ -20,25 +20,23 @@
 I want to deepen my knowledge and interest in **software development**. Serious, motivated and organized.
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/adelstiti/adelstiti/master/assets/img/dev.png" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/adelstiti/adelstiti/master/assets/img/dev.png" width="300px"/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🔭 &nbsp; I’m currently working on something cool :wink:
 - 🌱 &nbsp; I’m currently learning Next.js
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adelstiti?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/adelstiti?tab=repositories" target="_blank">Github</a>
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 🤝 &nbsp; See more about me on [adelstiti.github.io](https://adelstiti.github.io/)
- - 😄 &nbsp; Pronouns: he/him
- - ⚡ &nbsp;  Fun fact: 0.1+0.2 // 0.30000000000000004
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1gneDKlDfsvJpbZhoJtfVTRdEV1xUBu53/view)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adel-stiti-9ba760158/)
+- 🤝 &nbsp; See more about me on <a href="https://adelstiti.github.io/" target="_blank">adelstiti.github.io</a>
+- 😄 &nbsp; Pronouns: he/him
+- ⚡ &nbsp;  Fun fact: 0.1+0.2 // 0.30000000000000004
+- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/adel-stiti-9ba760158/" target="_blank">LinkedIn</a>
+<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1gneDKlDfsvJpbZhoJtfVTRdEV1xUBu53/view) -->
 
-<!-- [![GitHub adelstiti](https://img.shields.io/github/followers/adelstiti?label=follow&style=social)](https://github.com/adelstiti) -->
-
+[![GitHub adelstiti](https://img.shields.io/github/followers/adelstiti?label=follow&style=social)](https://github.com/adelstiti)
 
 ### 🔨 Languages and Tools:
-
 
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="35px"  src="https://raw.githubusercontent.com/adelstiti/adelstiti/master/assets/img/laravel.png"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="35px"  src="https://raw.githubusercontent.com/adelstiti/adelstiti/master/assets/img/js.png"> </a>
