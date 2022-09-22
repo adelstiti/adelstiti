@@ -25,14 +25,14 @@ I want to deepen my knowledge and interest in **software development**. Serious,
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on something cool :wink:
-- 🌱 &nbsp; I’m currently learning Next.js
+- 🌱 &nbsp; I’m currently learning GraphQL
 - 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/adelstiti?tab=repositories" target="_blank">Github</a>
+- ⚡ &nbsp;  Fun fact: 0.1+0.2 // 0.30000000000000004
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 🤝 &nbsp; See more about me on <a href="https://adelstiti.github.io/" target="_blank">adelstiti.github.io</a>
-- 😄 &nbsp; Pronouns: he/him
-- ⚡ &nbsp;  Fun fact: 0.1+0.2 // 0.30000000000000004
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/adel-stiti-9ba760158/" target="_blank">LinkedIn</a>
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1gneDKlDfsvJpbZhoJtfVTRdEV1xUBu53/view) -->
+<br>
 
 [![GitHub adelstiti](https://img.shields.io/github/followers/adelstiti?label=follow&style=social)](https://github.com/adelstiti)
 
