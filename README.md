@@ -14,7 +14,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=adelstiti&right_color=teal)
+![](https://komarev.com/ghpvc/?username=adelstiti)
 
 <img src="https://raw.githubusercontent.com/adelstiti/adelstiti/master/assets/img/Hi.gif" width="30px"> I'm [Adel Stiti](https://adelstiti.github.io/), a passionate self-taught software developer from Tunisia 🇹🇳. I am particularly interested in the web development field including Laravel and JavaScript (ReactJS, NodeJS ...).
 I want to deepen my knowledge and interest in **software development**. Serious, motivated and organized.
@@ -25,8 +25,8 @@ I want to deepen my knowledge and interest in **software development**. Serious,
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on something cool :wink:
-- 🌱 &nbsp; I’m currently learning GraphQL
-- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/adelstiti?tab=repositories" target="_blank">Github</a>
+- 🌱 &nbsp; I’m currently learning Nuxt.js
+- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://adelstiti.github.io/" target="_blank">my portfolio</a>
 - ⚡ &nbsp;  Fun fact: 0.1+0.2 // 0.30000000000000004
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 🤝 &nbsp; See more about me on <a href="https://adelstiti.github.io/" target="_blank">adelstiti.github.io</a>
